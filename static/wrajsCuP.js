@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./wSumAWzL.js","./entry.CwiiNrh9.css"])))=>i.map(i=>d[i]);
-import{_ as n,c as o,o as _,a,d as c,b as s}from"./wSumAWzL.js";const r=c(()=>s(()=>import("./wSumAWzL.js").then(e=>e.aX),__vite__mapDeps([0,1]),import.meta.url).then(e=>e.default||e)),d={},i={class:"w-full h-screen"};function l(e,m){const t=r;return _(),o("div",i,[a(t)])}const p=n(d,[["render",l]]);export{p as default};
